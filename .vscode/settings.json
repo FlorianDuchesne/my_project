@@ -1,0 +1,17 @@
+{
+  "files.associations": {
+    "*.html": "twig"
+  },
+  "emmet.includeLanguages": {
+    "twig" : "html"
+  },
+
+  "json.schemas": [
+  {
+    "fileMatch": [
+      "/myfile"
+    ],
+    "url": "schemaURL"
+  }
+  ]
+}
